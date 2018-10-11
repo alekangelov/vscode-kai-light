@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "alek-kai-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# Alek Kai Theme
+A sweet and nice VS Code Theme that will blow your socks off!
+Made this sweet little thing for every single one of my buds out there using a light theme, but having problems because nobody gets contrast right 😡
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### PREVIEW:
+![Image preview of Alek Kai Theme](https://i.imgur.com/E8s6xh8.jpg)
 
-**Enjoy!**
+made by yours truly [Alek Angelov](http://alekangelov.com) 

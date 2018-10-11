@@ -4,6 +4,10 @@
     "description": "It's a great light theme",
     "version": "0.0.1",
     "publisher": "alek-angelov",
+    "repository": {
+        "url": "https://alek-angelov.visualstudio.com/_git/Alek%20Kai%20Theme",
+        "type": "git"
+    },
     "engines": {
         "vscode": "^1.28.0"
     },
