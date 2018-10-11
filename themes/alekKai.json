@@ -1,5 +1,5 @@
 {
-	"name": "Alek Kai Light",
+	"name": "Kai Light",
 	"type": "light",
 	"colors": {
 		"editor.background": "#fff",
@@ -23,13 +23,13 @@
 		"list.activeSelectionBackground": "#f7edff",
 		"list.activeSelectionForeground": "#000",
 		"list.inactiveSelectionBackground": "#e4f2ff",
-		"editorGroupHeader.noTabsBackground": "#ffffff",
+		"editorGroupHeader.noTabsBackground": "#ffffff"
 	},
 	"tokenColors": [
 		{
 			"scope": "*",
 			"settings": {
-				"foreground": "#000000",
+				"foreground": "#000000"
 			}
 		},
 		{
