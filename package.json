@@ -2,8 +2,8 @@
     "name": "alek-kai-theme",
     "displayName": "Alek Kai Theme",
     "description": "It's a great light theme",
-    "version": "0.0.1",
-    "publisher": "alek-angelov",
+    "version": "0.0.2",
+    "publisher": "alekangelov",
     "repository": {
         "url": "https://alek-angelov.visualstudio.com/_git/Alek%20Kai%20Theme",
         "type": "git"
@@ -14,6 +14,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
