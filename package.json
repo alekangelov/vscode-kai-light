@@ -1,6 +1,6 @@
 {
     "name": "alek-kai-theme",
-    "displayName": "Alek Kai Theme",
+    "displayName": "Alek Kai Light",
     "description": "A light theme that gets contrast and readability right!",
     "version": "0.0.10",
     "publisher": "alekangelov",
@@ -29,9 +29,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Alek Kai Light",
+                "label": "Alek Kai",
                 "uiTheme": "vs",
-                "path": "./themes/Alek Kai Light-color-theme.json"
+                "path": "./themes/alekKai.json"
+            },
+            {
+                "label": "Alek Kai Accent",
+                "uiTheme": "vs",
+                "path": "./themes/alekKaiSat.json"
             }
         ]
     }
