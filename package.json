@@ -2,7 +2,7 @@
     "name": "alek-kai-theme",
     "displayName": "Alek Kai Theme",
     "description": "A light theme that gets contrast and readability right!",
-    "version": "0.0.6",
+    "version": "0.0.10",
     "publisher": "alekangelov",
     "repository": {
         "url": "https://alek-angelov.visualstudio.com/_git/Alek%20Kai%20Theme",
@@ -15,16 +15,11 @@
         "Themes"
     ],
     "keywords": [
-        "material",
         "light",
-        "light colors",
-        "good contrast",
+        "contrast",
         "light theme",
-        "kai theme",
-        "monokai variant",
-        "cool theme",
-        "frost",
-        "frost theme"
+        "monokai",
+        "frost"
     ],
     "galleryBanner": {
         "color": "#0084ff",
