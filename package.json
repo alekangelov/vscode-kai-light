@@ -1,0 +1,22 @@
+{
+    "name": "alek-kai-theme",
+    "displayName": "Alek Kai Theme",
+    "description": "It's a great light theme",
+    "version": "0.0.1",
+    "publisher": "alek-angelov",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Alek Kai Light",
+                "uiTheme": "vs",
+                "path": "./themes/Alek Kai Light-color-theme.json"
+            }
+        ]
+    }
+}
