@@ -1,8 +1,14 @@
+# Kai Light Changelog
+  
+## 0.2.2 - 2018-10-12  
+### NEW LOGO  
+- 🎉🎉🎉
+  
 ## 0.2.1 - 2018-10-12
 ### Minor Changer
 - Updated the theme name and it's now Kai Light
 - Fixed some intendation issues and more readability improvements
-
+  
 ## 0.1.1 - 2018-10-12
 ### Added
 - New theme!
