@@ -1,8 +1,8 @@
 {
     "name": "alek-kai-theme",
     "displayName": "Alek Kai Theme",
-    "description": "It's a great light theme",
-    "version": "0.0.5",
+    "description": "A light theme that gets contrast and readability right!",
+    "version": "0.0.6",
     "publisher": "alekangelov",
     "repository": {
         "url": "https://alek-angelov.visualstudio.com/_git/Alek%20Kai%20Theme",
