@@ -14,6 +14,10 @@
     "categories": [
         "Themes"
     ],
+    "galleryBanner": {
+        "color": "#0084ff",
+        "theme": "light"
+    },
     "icon": "icon.png",
     "contributes": {
         "themes": [
