@@ -2,7 +2,7 @@
     "name": "alek-kai-theme",
     "displayName": "Kai Light",
     "description": "A light theme that gets contrast and readability right!",
-    "version": "0.2.212",
+    "version": "0.2.3",
     "publisher": "alekangelov",
     "repository": {
         "url": "https://github.com/alekangelov/vscode-kai-light",

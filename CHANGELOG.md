@@ -1,5 +1,8 @@
 # Kai Light Changelog
-  
+## 0.2.3 - 2018-10-26 
+### Visual Updates
+- More consistent visual style
+
 ## 0.2.2 - 2018-10-12  
 ### NEW LOGO  
 - 🎉🎉🎉
