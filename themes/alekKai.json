@@ -24,7 +24,9 @@
 		"list.activeSelectionForeground": "#000",
 		"list.inactiveSelectionBackground": "#e4f2ff",
 		"editorGroupHeader.noTabsBackground": "#ffffff",
-		"titleBar.activeBackground": "#f5f5f5"
+		"titleBar.activeBackground": "#f5f5f5",
+		"editorLineNumber.foreground": "#686868",
+		"editorLineNumber.activeForeground": "#000000"
 	},
 	"tokenColors": [
 		{
